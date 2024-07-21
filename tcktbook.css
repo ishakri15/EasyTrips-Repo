@@ -1,0 +1,29 @@
+.home{
+    background: url(promote-travel-apps.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 95vh;
+    width: 100%;
+    background-size: cover;
+}
+.navbar{
+    background-color: rgb(172, 52, 52);
+}
+.navbar a {
+    color: white; 
+}
+.log-in{
+    padding-left: 150px;
+}
+.sign-up{
+    padding-left: 150px;
+}
+.login-signup{
+    background: url(pingoo_bg.jpg);
+}
+.lists a{
+    color: white;
+}
+.footer{
+    background-color: rgb(172, 52, 52);
+}
